@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QlCJXqfz9GxhckjpleQcFlb6+gAwWExM9GdmcbDVOfRWdfz/gf0CTqhnmGkCb6YxO+BWEmQ0kFYvb75GlfdDdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Загрузки\\Штуки для учебы\\С# технологии\\OPD 1\\OPD 1\\OPD 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79119\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

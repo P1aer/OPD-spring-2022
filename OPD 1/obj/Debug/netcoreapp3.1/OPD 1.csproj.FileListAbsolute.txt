@@ -1,0 +1,14 @@
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.exe
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.deps.json
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.runtimeconfig.json
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.runtimeconfig.dev.json
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.dll
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\bin\Debug\netcoreapp3.1\OPD 1.pdb
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.csproj.AssemblyReference.cache
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.AssemblyInfoInputs.cache
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.AssemblyInfo.cs
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.csproj.CoreCompileInputs.cache
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.dll
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.pdb
+D:\Загрузки\Штуки для учебы\С# технологии\OPD 1\OPD 1\obj\Debug\netcoreapp3.1\OPD 1.genruntimeconfig.cache
