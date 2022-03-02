@@ -8,7 +8,7 @@ namespace OPD_1
     public delegate void Sort(ref int[][] arr, TypeSort asc);
     public class Matrix
     {
-        public int[][] matrix = new int[][] { new int[] { 2, 0, 0 }, new int[] { 5, 4, -3 }, new int[] { 0, -15, 20 } };
+        public int[][] matrix = new int[][] { new int[] { 2, 0, 0 }, new int[] { 5, 4, -3 }, new int[] { 0, -15, 20 },new int[] {5,3, 1 }, new int[] {2, 0, 1 } };
         private Sort Alg { get; set; }
         private TypeSort AlgType { get; set; }
 
